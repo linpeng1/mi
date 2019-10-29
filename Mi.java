@@ -35,7 +35,8 @@ public class Mi {
 		}
 		if (count >= s2.length && count > 0) {
 			s1[i - count] = 0;
-		} 
+		}
+		System.out.println(1);
 		return s1;
 	}
 
